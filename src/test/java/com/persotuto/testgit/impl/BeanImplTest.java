@@ -9,6 +9,7 @@ public class BeanImplTest extends TestCase {
     	//Change B
 	Bean aBean = new BeanImpl();
         assertTrue(aBean.isABean());
+        // change A
     }
 
 }
