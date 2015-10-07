@@ -11,6 +11,7 @@ public class BeanImplTest extends TestCase {
         assertTrue(aBean.isABean());
 
         // change A+C+B
+        // CHange in master
 
     }
 
