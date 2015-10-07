@@ -6,9 +6,12 @@ import com.persotuto.testgit.Bean;
 public class BeanImplTest extends TestCase {
 
     public void testBeanIsABean() {
+    	//Change B
 	Bean aBean = new BeanImpl();
         assertTrue(aBean.isABean());
-        // change A+C
+
+        // change A+C+B
+
     }
 
 }
